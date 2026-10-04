@@ -6,3 +6,5 @@ echo "Weekday $((i++)) : $day"
 done
 
 echo "Adding to learn git fetch"
+
+echo "Adding again"
