@@ -9,3 +9,5 @@ do
 done
 
 echo "Loop finished"
+
+echo "Adding from b2"
