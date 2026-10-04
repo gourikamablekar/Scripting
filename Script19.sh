@@ -1,4 +1,5 @@
 #!/bin/sh
+echo "Added from master"
 
 file="/root/test.txt"
 
