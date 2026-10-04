@@ -8,3 +8,5 @@ number_two () {
 }
 # Calling function one.
 number_one
+
+echo "Successfully executed"
